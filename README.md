@@ -14,5 +14,6 @@ This project analyzes Amazon sales data to identify trends and insights.
 
 ## 📷 Dashboard Preview
 ![Dashboard](Dashboard.png)
-![Dashboard](Sales Overview.png)
+![Dashboard](Sales.png)
+![Dashboard](Customer.png)
 
