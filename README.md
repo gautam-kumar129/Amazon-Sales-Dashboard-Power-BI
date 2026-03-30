@@ -42,7 +42,7 @@ This project presents an interactive Power BI dashboard to analyze Amazon sales 
 ![Customer](Customer.png)
 
 ### 🚚 Shipping Overview
-![Shipping](Shipping Overview.png)
+![Shipping](Shipping.png)
 
 ---
 
