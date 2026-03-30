@@ -1,19 +1,58 @@
-# Amazon Sales Dashboard (Power BI)
+# 📊 Amazon Sales Dashboard (Power BI)
 
-## 📊 Overview
-This project analyzes Amazon sales data to identify trends and insights.
+## 📌 Overview
+This project presents an interactive Power BI dashboard to analyze Amazon sales performance, identify trends, and generate actionable insights.
 
-## 🔧 Tools Used
-- Power BI
-- Excel
+---
 
-## 📈 Key Insights
-- Top-selling products
-- Regional sales performance
-- Monthly sales trends
+## 🚀 Project Highlights
+- Built interactive dashboard using Power BI  
+- Analyzed sales by region, category, and customer  
+- Identified top-performing products and customers  
+- Visualized monthly sales trends and KPIs  
 
-## 📷 Dashboard Preview
+---
+
+## 🛠 Tools Used
+- Power BI  
+- Excel  
+
+---
+
+## 📊 Key Insights
+- Top-selling products identified  
+- Regional sales performance analyzed  
+- Monthly sales trends visualized  
+- Customer behavior insights extracted  
+
+---
+
+## 📊 Dashboard Preview
+
+### 📌 Main Dashboard
 ![Dashboard](Dashboard.png)
-![Dashboard](Sales.png)
-![Dashboard](Customer.png)
+
+### 📊 Sales Overview
+![Sales](Sales.png)
+
+### 📦 Product Analysis
+![Product](Product.png)
+
+### 👤 Customer Insights
+![Customer](Customer.png)
+
+### 🚚 Shipping Overview
+![Shipping](Shipping Overview.png)
+
+---
+
+## 📂 Dataset
+- Source: Amazon sales dataset  
+- Format: Excel (.xlsx)  
+- Includes: Sales, Customer, Product, Region data  
+
+---
+
+## 📌 Conclusion
+This dashboard helps businesses understand sales performance and make data-driven decisions using clear visual insights.
 
